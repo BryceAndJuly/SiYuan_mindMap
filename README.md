@@ -1,9 +1,12 @@
-# SiYuan_mindMap
-基于jsMind的思维导图挂件，适用于思源笔记（开放笔记API后的版本，比如：V1.9.7）
-
-## 更新
+## 最近更新
 最近一次的更新需要修改main.js，不方便在集市上直接更新，请查看链滴社区中的帖子：
 [https://ld246.com/article/1651156033109](https://ld246.com/article/1651156033109)
+
+帖子里当前关于main.js的修改，对应于windows平台V2.0.9的版本，愿意折腾的可以试一下（尝试前先备份好main.js文件）。
+
+## SiYuan_mindMap
+基于jsMind的思维导图挂件，适用于思源笔记（开放笔记API后的版本）
+
 
 
 ## 开始使用
